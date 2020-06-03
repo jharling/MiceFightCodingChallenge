@@ -1,0 +1,95 @@
+{
+	"company": "Gnostech, LLC",
+	"challenge": "Vendor War",
+	"vendors": [{
+			"vendor": "Panasonic",
+			"health": 136,
+			"damage": 6,
+			"attacks": 4,
+			"dodge": 10,
+			"critical": 10,
+			"initiative": 4
+		},
+		{
+			"vendor": "Dell",
+			"health": 110,
+			"damage": 4,
+			"attacks": 5,
+			"dodge": 12,
+			"critical": 12,
+			"initiative": 5
+		},
+		{
+			"vendor": "Getac",
+			"health": 175,
+			"damage": 8,
+			"attacks": 3,
+			"dodge": 2,
+			"critical": 8,
+			"initiative": 3
+		},
+		{
+			"vendor": "HP",
+			"health": 112,
+			"damage": 2,
+			"attacks": 8,
+			"dodge": 4,
+			"critical": 16,
+			"initiative": 2
+		},
+		{
+			"vendor": "Gateway",
+			"health": 108,
+			"damage": 7,
+			"attacks": 4,
+			"dodge": 12,
+			"critical": 18,
+			"initiative": 4
+		},
+		{
+			"vendor": "Apple",
+			"health": 220,
+			"damage": 12,
+			"attacks": 2,
+			"dodge": 4,
+			"critical": 10,
+			"initiative": 2
+		},
+		{
+			"vendor": "Asus",
+			"health": 116,
+			"damage": 4,
+			"attacks": 6,
+			"dodge": 14,
+			"critical": 14,
+			"initiative": 6
+		},
+		{
+			"vendor": "Lenovo",
+			"health": 96,
+			"damage": 16,
+			"attacks": 2,
+			"dodge": 16,
+			"critical": 15,
+			"initiative": 6
+		},
+		{
+			"vendor": "Toshiba",
+			"health": 280,
+			"damage": 24,
+			"attacks": 1,
+			"dodge": 0,
+			"critical": 0,
+			"initiative": 0
+		},
+		{
+			"vendor": "Acer",
+			"health": 124,
+			"damage": 6,
+			"attacks": 4,
+			"dodge": 8,
+			"critical": 12,
+			"initiative": 4
+		}
+	]
+}
